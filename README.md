@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# Hey, I'm Karthik 👋
+# Hey, I'm KKH 👋
 
 Android engineer who enjoys digging into how things actually work — from Jetpack Compose all the way down to system services and VHAL. I've spent the last 4+ years building for Android and Automotive platforms, and I genuinely like the messy, interesting problems.
 
@@ -46,8 +44,5 @@ Currently open to Android, platform, or software engineering roles — happy to 
 ---
 
 ## 📫 Find me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://in.linkedin.com/in/karthik-hebbar-k-a743a5170)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/khebbark)
 📧 kkarthikhebbar2k@gmail.com
 
